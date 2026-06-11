@@ -154,34 +154,7 @@ button{
       <img src="die.png" alt="Die" />
     </div>
 
-    <script src="script.js">
-      function "BuyMacbook"(){
 
-    for(let i=0;i<40;i++){
-
-        const heart =
-            document.createElement("div");
-
-        heart.className = "heart";
-        heart.innerHTML = "💖";
-
-        heart.style.left =
-            Math.random()*window.innerWidth + "px";
-
-        heart.style.top =
-            window.innerHeight + "px";
-
-        document.body.appendChild(heart);
-
-        setTimeout(()=>{
-            heart.remove();
-        },3000);
-    }
-
-    setTimeout(()=>{
-        showPage("lovePage");
-    },1500);
-}
     </script>
   </body>
 </html>
