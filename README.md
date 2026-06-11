@@ -1,7 +1,7 @@
 # 💖 อะลองกดดู - เกมขอmacbook💖
 ## 🎮 วิธีเล่น
 
-1. เข้าไปที่ [จีบเธอ Game] (https://chimuyah.github.io/macbook-love/)
+1. เข้าไปที่ [จีบเธอ Game](https://chimuyah.github.io/macbook-love/)
 
 4. ถ้าคุณลองกดปุ่ม... เอ่อ ... ลองดูสิว่าจะเกิดอะไรขึ้น! 😉
 
